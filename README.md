@@ -1,2 +1,3 @@
-# backEnd
-Back-end repository for development environment 
+# Strapi application
+
+A quick description of your strapi application
